@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">indoor plants</string>
+    <string name="title_activity_main">indoor plants</string>
+    <string name="package_name">com.christophszcz.indoorPlants</string>
+    <string name="custom_url_scheme">com.christophszcz.indoorPlants</string>
+</resources>
